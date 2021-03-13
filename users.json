@@ -4,15 +4,15 @@
         "password": "123"
     },
     {
-        "name": "wiola@name.com",
+        "login": "wiola@name.com",
         "password": "1234"
     },
     {
-        "name": "jakub@sth.com",
+        "login": "jakub@sth.com",
         "password": "abcd"
     },
     {
-        "name": "krzysiek@mail.com",
+        "login": "krzysiek@mail.com",
         "password": "asdf"
     }
 ]
