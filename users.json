@@ -1,0 +1,18 @@
+[
+    {
+        "login": "marcin@name.com",
+        "city": "123"
+    },
+    {
+        "name": "wiola@name.com",
+        "city": "1234"
+    },
+    {
+        "name": "jakub@sth.com",
+        "city": "abcd"
+    },
+    {
+        "name": "krzysiek@mail.com",
+        "city": "asdf"
+    }
+]
